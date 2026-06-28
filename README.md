@@ -5,4 +5,6 @@
 <br>
 <hr>
 <p>Yoqan bo'lsa harid qilin</p>
+<br>
+<hr>
 <p>harid qilish uchun 55-min kerak bo'ladi</p>
